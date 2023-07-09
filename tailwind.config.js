@@ -13,7 +13,8 @@ export default {
     },
     fontFamily: {
       Arabic: ["IBM Plex Sans Arabic", "sans-serif"],
-    },
+    },    
+
     extend: {},
   },
   plugins: [],
